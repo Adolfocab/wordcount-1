@@ -8,3 +8,6 @@ for word in words:
 
 print("The word frequency of your statement is: ")
 print(counts)
+main():
+happy = input("Enter a statement to word count: ")
+wordcount(happy)
