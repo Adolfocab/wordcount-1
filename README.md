@@ -1,2 +1,2 @@
 # wordcount
-Welcome
+Welcome, this is the README file
